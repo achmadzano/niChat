@@ -12,5 +12,5 @@ This repository contains the niChat source code
 1. Clone this repository
 2. Run `npm install`
 3. Run `npm run dev`
-4. Server will run on Port 3000. 
-5. Open `http://localhost:3000` in your browser
+4. Server will run on Port 3001. 
+5. Open `http://localhost:3001` in your browser
